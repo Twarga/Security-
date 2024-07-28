@@ -80,7 +80,16 @@
 - [ ] Lab 84 : How to use Mimikatz to extract all the passwords from a Windows machine  >> OS security , Auditing
 - [ ] Lab 85 : How to enumerate for privilege escalation on a Windows target with winPEAS  >> OS security , Auditing
 - [ ] Lab 86 : How to enumerate for privilege escalation on a Linux target with LinPEAS >> OS security , Auditing
-- [ ] Lab 87 :
+- [ ] Lab 87 : OWSAP A1- OS Command Injection >> OS security , >> OS security , Auditing , OWSAP
+- [ ] Lab 88 : OWSAP A2 - Broken Authentication and Session Management- Username enumeration Vulnerability >> OS security , Auditing , OWASP
+- [ ] Lab 89 : OWSAP A3 - Sensitive Information Disclosure >> OS security , Auditing, OWASP
+- [ ] Lab 90 : OWSAP A4 EML External Entities (XXE) >> OS security , Auditing, OWSAP
+- [ ] Lab 91 : OWSAP A5 Broken Access Control >> OS security , Auditing, OWSAP
+- [ ] Lab 92 : OWASP A6 Security misconfiguration >> OS security , Auditing, OWSAP
+- [ ] Lab 93 : OWASP A7 - Cross Site Scripting (XSS) >> >> OS security , Auditing, OWSAP
+- [ ] Lab 94 : OWASP A8 - Insecure Deserialization >> OS security , Auditing, OWSAP
+- [ ] Lab 95 : OWASP A9 - Using Components with Known Vulnerabilities >> OS security , Auditing, OWSAP
+- [ ] Lab 96 : OWASP Top 10 - A10 Unvalidated Redirects and Forward >> OS security , Auditing, OWSAP
 # I- General Security Concept
 Here are some hands-on lab ideas based on the cybersecurity module you've been studying:
 
