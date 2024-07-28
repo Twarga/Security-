@@ -49,7 +49,26 @@
 - [ ] Lab 48 : Browser Exploitation Framework (BeEF) >> Web Security
 - [ ] Lab 49 : Hacking WPS networks with Wifite >> Network Security , Wireless Attacks
 - [ ] Lab 50 : Capturing credentials submitted through http with Wireshark >> Network Security
-- [ ] Lab 51 :
+- [ ] Lab 51 : Packet capture with tcpdump >> Network Security
+- [ ] Lab 52 : How to discover nearby Wi-Fi with Airodump-ng >> Network Security , Wireless Networking
+- [ ] Lab 53 : How to capture a WPA handshake using Airodump-ng and Aireplay-ng >> Network Security , Wireless Networking
+- [ ] Lab 54 : How to crack WPA handshake file using Aircrack-ng >> Network Security , Wireless Networking
+- [ ] Lab 55 : Using proxychains for anonymous hacking >> Network Security , Wireless Networking
+- [ ] Lab 56 : How to use md5 checksums to determine if a file contains malware >> Malware analysis
+- [ ] Lab 57 : How to use Process Explorer to find and scan supicious processes for malware >> Malware analysis
+- [ ] Lab 58-Lab 61 : Fundamental Linux Concepts >> Master Linux (Server World)
+- [ ] Lab 62 : Cracking Basic Hashes with John the Ripper >> Passwords Attacks and Cryptographic
+- [ ] Lab 63 : Cracking Advanced Hashes with John the Ripper >> Passwords Attacks an Cryptographic
+- [ ] Lab 64 : More Advances Uses of John The Ripper >> Master John The Ripper
+- [ ] Lab 65 : Establishing a reverse Shell with netcat >> Network Security and Operating Systems Security
+- [ ] Lab 66 : Establishing a bind shell with netcat >> Network Security and Operating Systems Security
+- [ ] Lab 67 : How to stabilise netcat shells >> Network Security and Operating Systems Security
+- [ ] Lab 68 : Getting a reverse shell using socat >> Network Security and Operating Systems Security
+- [ ] Lab 69 : Establishing a bind shell using socat >> Network Security and Operating Systems Security
+- [ ] Lab 70 : Establising a stable socat shell >> Network Security and Operating Systems Security
+- [ ] Lab 71 : Upgrading a limited shell to Meterpreter shell using Metasploit >> Network Security and Operating Systems Security
+- [ ] Lab 72 : Exploiting a vulnerable FTP services to gain a shell using Metasploit >> Network Security and Operating Systems Security
+- [ ] Lab 73 : Running a vulnerability scan with Nessus >> Auditing and Malware Detection
 # I- General Security Concept
 Here are some hands-on lab ideas based on the cybersecurity module you've been studying:
 
