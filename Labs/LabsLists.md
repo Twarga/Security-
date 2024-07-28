@@ -90,6 +90,8 @@
 - [ ] Lab 94 : OWASP A8 - Insecure Deserialization >> OS security , Auditing, OWSAP
 - [ ] Lab 95 : OWASP A9 - Using Components with Known Vulnerabilities >> OS security , Auditing, OWSAP
 - [ ] Lab 96 : OWASP Top 10 - A10 Unvalidated Redirects and Forward >> OS security , Auditing, OWSAP
+- [ ] Lab 97-99 : Python >> Master Python Scripting for Cyber Security
+- [ ] Lab 100-101 : PowerShell >> Master Powershell
 # I- General Security Concept
 Here are some hands-on lab ideas based on the cybersecurity module you've been studying:
 
