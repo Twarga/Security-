@@ -69,6 +69,18 @@
 - [ ] Lab 71 : Upgrading a limited shell to Meterpreter shell using Metasploit >> Network Security and Operating Systems Security
 - [ ] Lab 72 : Exploiting a vulnerable FTP services to gain a shell using Metasploit >> Network Security and Operating Systems Security
 - [ ] Lab 73 : Running a vulnerability scan with Nessus >> Auditing and Malware Detection
+- [ ] Lab 74 : Creating Metasploit PayLoads with MSFVENOM >> IDS and Auditng
+- [ ] Lab 75 : Establishing a reverse shell on a linux target using Msfvenom and Metasploit >>  Auditng and OS Security
+- [ ] Lab 76 : Establising a bind shell on a Linux target using Msfvenom and Metasploit
+- [ ] Lab 77 : Basic Meterpreter commands >> Network Security and Auditing
+- [ ] Lab 78 : More Advanced Meterpreter Commands >> Network Security and Auditing
+- [ ] Lab 79-81 : Bash Scripting >> Master Bash Scripting
+- [ ] Lab 82 : How to establish a Meterpreter shell on Windows target using SET >> OS security , Auditing
+- [ ] Lab 83 : How to migrate to a different process on the target machine after establishing a Meterpreter shell
+- [ ] Lab 84 : How to use Mimikatz to extract all the passwords from a Windows machine  >> OS security , Auditing
+- [ ] Lab 85 : How to enumerate for privilege escalation on a Windows target with winPEAS  >> OS security , Auditing
+- [ ] Lab 86 : How to enumerate for privilege escalation on a Linux target with LinPEAS >> OS security , Auditing
+- [ ] Lab 87 :
 # I- General Security Concept
 Here are some hands-on lab ideas based on the cybersecurity module you've been studying:
 
